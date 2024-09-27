@@ -12,7 +12,7 @@ Starten des Sample Projekts des JavaStarters
   npm run sample
 ```
 
-Playwirght Tests ausführen:
+Playwright Tests ausführen:
 ```shell
   npm run sample:test
 ```

@@ -16,7 +16,7 @@ Starten des Step0100 des JavaStarters
   npm run step0090
 ```
 
-Playwirght Tests ausführen:
+Playwright Tests ausführen:
 ```shell
   npm run step0090:test
 ```

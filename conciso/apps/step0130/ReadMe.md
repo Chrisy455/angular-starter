@@ -16,7 +16,7 @@ Starten des Sample Projekts des JavaStarters
   npm run step0130
 ```
 
-Playwirght Tests ausführen:
+Playwright Tests ausführen:
 ```shell
   npm run step0130:test
 ```

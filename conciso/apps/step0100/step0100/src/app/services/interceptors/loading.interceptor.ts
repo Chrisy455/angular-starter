@@ -17,7 +17,7 @@ export class LoadingInterceptor implements HttpInterceptor {
     this.loadingService.setLoadingStatus(true);
     
     return next.handle(req).pipe(
-      filter(x => HttpEventType.Response == x.type ),
+      filter(x => HttpEventType.Response == x.type),
       delay(1000),
       tap(x => console.log(x)),
       finalize(() => this.loadingService.setLoadingStatus(false))

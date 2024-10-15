@@ -11,7 +11,7 @@ Starten des Sample Projekts des JavaStarters
  - Aufbau der Bibliotheken
 
 ## Execute
-Über die Konsole im Pfad '...\conciso' ausführen:
+Über die Konsole ausführen:
 ```shell
   npm run step0130
 ```

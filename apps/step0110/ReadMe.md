@@ -11,7 +11,7 @@ Starten des Sample Projekts des JavaStarters
  - Nutzen und Umgang mit Keycloak
 
 ## Execute
-Über die Konsole im Pfad '...\conciso' ausführen:
+Über die Konsole ausführen:
 ```shell
   npm run step0110
 ```

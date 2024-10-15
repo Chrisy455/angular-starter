@@ -7,7 +7,7 @@ Fertiges Sample Projekt des AngularStarters
 Starten des Sample Projekts des JavaStarters
 
 ## Execute
-Über die Konsole im Pfad '...\conciso' ausführen:
+Über die Konsole ausführen:
 ```shell
   npm run sample
 ```

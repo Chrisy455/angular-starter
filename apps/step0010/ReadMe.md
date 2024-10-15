@@ -10,7 +10,7 @@ Simple Mark-Up File
  - Anwendung von CSS durch verschiedene Arten der Selektion
 
 ## Execute
-Über die Konsole im Pfad '...\conciso' ausführen:
+Über die Konsole ausführen:
 ```shell
   npm run step0010
 ```

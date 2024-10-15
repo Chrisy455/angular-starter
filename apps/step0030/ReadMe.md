@@ -14,7 +14,7 @@ npx nx g @nrwl/angular:application
  - Aufbau & Nutzung von Angular Komponenten
 
 ## Execute
-Über die Konsole im Pfad '...\conciso' ausführen:
+Über die Konsole ausführen:
 ```shell
   npm run step0030
 ```

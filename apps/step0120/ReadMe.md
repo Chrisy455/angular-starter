@@ -10,7 +10,7 @@ Starten des Sample Projekts des JavaStarters
  - Aufbau und Anwendung von Guards
 
 ## Execute
-Über die Konsole im Pfad '...\conciso' ausführen:
+Über die Konsole ausführen:
 ```shell
   npm run step0120
 ```

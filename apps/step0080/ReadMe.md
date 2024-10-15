@@ -11,7 +11,7 @@ Starten des Step0100 des JavaStarters
  - Umsetzung der Visualiserung basierend auf den Routen
 
 ## Execute
-Über die Konsole im Pfad '...\conciso' ausführen:
+Über die Konsole ausführen:
 ```shell
   npm run step0080
 ```

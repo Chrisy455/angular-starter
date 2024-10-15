@@ -11,7 +11,7 @@ Starten des Step0100 des JavaStarters
  - Umgang mit den Erhaltenen Daten (Services/RxJs)
 
 ## Execute
-Über die Konsole im Pfad '...\conciso' ausführen:
+Über die Konsole ausführen:
 ```shell
   npm run step0070
 ```

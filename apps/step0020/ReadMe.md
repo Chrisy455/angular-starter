@@ -9,7 +9,7 @@ Hinzufügen der Logik durch JavaScript
  - Verknüpfung der Funktion mit Darstellungskomponenten
 
 ## Execute
-Über die Konsole im Pfad '...\conciso' ausführen:
+Über die Konsole ausführen:
 ```shell
   npm run step0020
 ```

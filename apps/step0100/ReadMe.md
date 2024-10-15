@@ -10,7 +10,7 @@ Starten des Step0100 des JavaStarters
  - Aufbau und Funktionalitäten von Interceptor-Klassen
 
 ## Execute
-Über die Konsole im Pfad '...\conciso' ausführen:
+Über die Konsole ausführen:
 ```shell
   npm run step0100
 ```

@@ -4,8 +4,8 @@ import { appRoutes } from './app.routes';
 import { provideAnimations } from '@angular/platform-browser/animations';
 import { HTTP_INTERCEPTORS, HttpClientModule, provideHttpClient, withInterceptorsFromDi } from '@angular/common/http';
 import { MessageService } from 'primeng/api';
-import { LoadingInterceptor } from './api/interceptors/loading.interceptor';
-import { AuthInterceptor } from './api/interceptors/auth.interceptor';
+import { LoadingInterceptor } from './services/interceptors/loading.interceptor';
+import { AuthInterceptor } from './services/interceptors/auth.interceptor';
 
 export const appConfig: ApplicationConfig = {
   providers: [provideRouter(appRoutes), 

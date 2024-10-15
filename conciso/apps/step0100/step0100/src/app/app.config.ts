@@ -4,7 +4,7 @@ import { appRoutes } from './app.routes';
 import { provideAnimations } from '@angular/platform-browser/animations';
 import { HTTP_INTERCEPTORS, provideHttpClient, withInterceptorsFromDi } from '@angular/common/http';
 import { MessageService } from 'primeng/api';
-import { LoadingInterceptor } from './api/interceptors/loading.interceptor';
+import { LoadingInterceptor } from './services/interceptors/loading.interceptor';
 
 export const appConfig: ApplicationConfig = {
   providers: [

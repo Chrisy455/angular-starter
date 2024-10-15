@@ -30,7 +30,6 @@ export class PersonFinderComponent {
 
   searchForPerson() {
     let id = this.personIdControl.value;
-    console.log(this.messageService)
     this.personApi.getById(id!).subscribe({
       next: (person) => {
         let msg = this.successMsg(person);
